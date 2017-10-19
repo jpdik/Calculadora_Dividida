@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/jpdik/Calculadora_Dividida/issues"
   },
-  "homepage": "https://github.com/jpdik/Calculadora_Dividida#readme"
+  "homepage": "https://github.com/jpdik/Calculadora_Dividida#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "html": "^1.0.0",
+    "nunjucks": "^3.0.1"
+  }
 }
