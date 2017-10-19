@@ -1,0 +1,19 @@
+{
+  "name": "calculadora_dividida",
+  "version": "1.0.0",
+  "description": "Calculadora Distribuída em várias máquinas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpdik/Calculadora_Dividida.git"
+  },
+  "author": "João Paulo <jpdik@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpdik/Calculadora_Dividida/issues"
+  },
+  "homepage": "https://github.com/jpdik/Calculadora_Dividida#readme"
+}
